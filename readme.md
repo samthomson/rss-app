@@ -2,11 +2,11 @@
 
 ## todo
 
-- json server package for fake initial data source
+- dockerized dev and prod env with deployment script
+- mysql with migration running script
 - graphql API
 - react front end (typescript)
 - redux
-- auth
 - auto process that pulls new feeds in
-- dockerized dev and prod env with deployment script
+- auth
 - tests....
