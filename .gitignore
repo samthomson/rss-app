@@ -1,2 +1,6 @@
+# packages etc
 clients/node_modules
 server/node_modules
+
+# build output
+server/dist
